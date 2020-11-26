@@ -6,27 +6,34 @@ pattern 1
 tempo 115
 
 instruments midi:usb
+D2D4 . . .
 D2-
 D2F-
 D2FA
+.
 D2- D2F-
 D2FA- D2FA
 D2- D2F- D2FA- D2FA- D2FA- D2FA- D2FA- D2FA
+.
 C2FA- C2FA- C2FA- C2FA- C2FA . C2FA .
 D2GB- D2GB- D2GB- D2GB- D2GB . D2GB .
 D2FA
+.
 
 instruments midi:usb
-#C4E4G4 G3B3D4 A3C4E4 F3A3C4
+D3D5 . . .
 . . D3- D3-
 D3- D3F-
 D3F- D3FA
+.
 . D3- D3- D3F-
 D3F- D3FA- D3FA- D3FA
 . . . D3- D3F- D3FA- D3FA- D3FA
+.
 C3FA- C3FA- C3FA- C3FA- C3FA . C3FA .
 D3GB- D3GB- D3GB- D3GB- D3GB . D3GB .
 D3FA
+.
 
 
 pattern 2
@@ -79,9 +86,3 @@ D5FA . D3FA- D3FA- D3FA . D5FA- D5FA-
 D5FA . G3BD- G3BD- G3BD . G5BD- G5BD-
 G5BD . G3BD- G3BD- G3BD . G5BD- G5BD
 
-
-
-#instruments midi:usb
-#C4E4G4 G3B3D4 A3C4E4 F3A3C4
-#. . D3- D- 
-#D- D- DE- DE
