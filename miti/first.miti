@@ -1,4 +1,4 @@
-chain 1 7 2 3 4
+chain 1 2
 
 
 pattern 1
@@ -11,24 +11,23 @@ D2-
 D2F-
 D2FA
 . D2
-D2F- D2FA- 
+D2F D2FA-
 D2FA .
-D2- D2A2- D2A2D3- D2A2D3- D2A2D3- D2A2D3- D2A2D3- D2A2D3
-
+D2- D2D3- D2D3A3- D2D3A3
 
 instruments midi:usb
 D3D5 . . .
-. . D3- D3-
+. D3-
 D3- D3F-
 D3F- D3FA
 . . . D3- 
-D3- D3F- D3F- D3FA- 
+D3 D3F- D3F D3FA-
 D3FA .
-. . . F3- F3A3- F3A3D4- F3A3D4- F3A3D4
+. A2- A2- A2F3- A2F3- A2F3D4- A2F3D4- A2F3D4
 
 
 
-pattern 7
+pattern 2
 
 tempo 120
 
@@ -45,7 +44,7 @@ A3D4F4
 .
 
 
-pattern 2
+pattern 3
 
 tempo 115
 
@@ -62,7 +61,7 @@ D5FA . G3BD- G3BD- G3BD . G5BD- G5BD-
 G5BD . G3BD- G3BD- G3BD . G5BD- G5BD-
 
 
-pattern 3
+pattern 4
 
 tempo 120
 
@@ -79,7 +78,7 @@ D5FA . G3BD- G3BD- G3BD . G5BD- G5BD-
 G5BD . G3BD- G3BD- G3BD . G5BD- G5BD-
 
 
-pattern 4
+pattern 5
 
 tempo 120
 
