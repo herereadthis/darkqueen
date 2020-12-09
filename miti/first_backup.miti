@@ -1,0 +1,25 @@
+
+
+pattern 9
+
+tempo 120
+
+instruments midi:usb
+. . . D2A2- D2A2 . . . 
+D0- D0- D0- D0 D0- D0 . . . D0- D0- D0 F0- F0- F0 G0- G0- G0 A0- A0- A0 F0- F0- F0
+A0- A0- A0- A0 A0- A0 . . . A0- A0- A0 G0- G0- G0 F0- F0- F0 A0- A0- A0 F0- F0- F0
+D0- D0- D0- D0 D0- D0 . . . F0- F0- F0 G0- G0- G0 A0- A0- A0 C1- C1- C1 A0- A0- A0
+G0- G0- G0- G0 G0- G0 . . . B0- B0- B0 A0- A0- A0 G0- G0- G0 A0- A0- A0 F0- F0- F0
+
+
+
+
+pattern 7
+
+tempo 120
+
+instruments midi:usb
+D1 D1 . D1 F1 G1 A1 F1
+D1 D1 . A1 G1 F1 A1 F1
+D1 D1 . F1 G1 A1 C2 A1
+D1 D1 . C2 A1 G1 A1 F1
