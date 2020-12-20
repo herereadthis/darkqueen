@@ -1,5 +1,58 @@
 
 
+pattern 3
+
+tempo 115
+
+instruments midi:usb
+D2FA- D2FA- D2FA . D4FA- D4FA- D4FA .
+D2FA- D2FA- D2FA . D4FA- D4FA- D4FA .
+G2BD- G2BD- G2BD . G4BD- G4BD- G4BD .
+G2BD- G2BD- G2BD . G4BD- G4BD- G4BD .
+
+instruments midi:usb
+. . D3FA- D3FA- D3FA . D5FA- D5FA-
+D5FA . D3FA- D3FA- D3FA . D5FA- D5FA-
+D5FA . G3BD- G3BD- G3BD . G5BD- G5BD-
+G5BD . G3BD- G3BD- G3BD . G5BD- G5BD-
+
+
+pattern 4
+
+tempo 120
+
+instruments midi:usb
+D2FA- D2FA- D2FA . D4FA- D4FA- D4FA .
+D2FA- D2FA- D2FA . D4FA- D4FA- D4FA .
+G2BD- G2BD- G2BD . G4BD- G4BD- G4BD .
+G2BD- G2BD- G2BD . G4BD- G4BD- G4BD .
+
+instruments midi:usb
+G5BD . D3FA- D3FA- D3FA . D5FA- D5FA-
+D5FA . D3FA- D3FA- D3FA . D5FA- D5FA-
+D5FA . G3BD- G3BD- G3BD . G5BD- G5BD-
+G5BD . G3BD- G3BD- G3BD . G5BD- G5BD-
+
+
+pattern 5
+
+tempo 120
+
+instruments midi:usb
+D2FA- D2FA- D2FA . D4FA- D4FA- D4FA .
+D2FA- D2FA- D2FA . D4FA- D4FA- D4FA .
+G2BD- G2BD- G2BD . G4BD- G4BD- G4BD .
+G2BD- G2BD- G2BD . G4BD- G4BD- G4BD .
+
+instruments midi:usb
+G5BD . D3FA- D3FA- D3FA . D5FA- D5FA-
+D5FA . D3FA- D3FA- D3FA . D5FA- D5FA-
+D5FA . G3BD- G3BD- G3BD . G5BD- G5BD-
+G5BD . G3BD- G3BD- G3BD . G5BD- G5BD
+
+
+
+
 pattern 9
 
 tempo 120
