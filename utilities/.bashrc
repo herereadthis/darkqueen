@@ -119,7 +119,7 @@ fi
 
 
 src () {
-    cd ~/src/$1
+    cd ~/src/repos/$1
 }
 mcd () {
         mkdir $1;cd $1
