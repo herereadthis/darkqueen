@@ -1,0 +1,53 @@
+chain 1 2
+
+
+pattern 1
+
+tempo 110
+
+instruments midi:usb
+.
+B4 A
+B4- B A- A B A B A 
+B4- B A- A B4 A B A B A B A B A B A 
+C5- C C- C C- C B4- B- B A- A- A
+F#4 E4
+F#4
+
+instruments midi:usb
+.
+.
+.
+.
+.
+D3F#GB B2DEG
+A2C#DF#
+
+
+pattern 2
+
+tempo 110
+
+instruments midi:usb
+C#4- C# E4- E4 C#4 E4 C#4 E4
+C#4- C#4 E4- E4 C#4 E4 C#4 E4 C#4 E4 C#4 E4 C#4 E4 C#4 E4 
+A4- A A- A A- A F#- F#- F# E- E- E
+C#4
+C#4- C#4 A4- A4 F# E F# E
+F#4- F# E- E F#- F# E- E  F#- F#- F# A- A- A B- B- B
+C5- C C- C C- C B4- B- B A- A- A
+F#4
+.
+
+instruments midi:usb
+.
+.
+D3F#GB- D3F#GB- D3F#GB B2C#EG#-
+B2C#EG# C#3EF#A-
+C#3EF#A
+. . . B2DF#A-
+B2DF#A
+E3GBD
+.
+
+
